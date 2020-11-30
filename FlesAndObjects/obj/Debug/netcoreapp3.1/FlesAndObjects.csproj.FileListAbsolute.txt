@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.exe
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.deps.json
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.runtimeconfig.json
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.dll
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\bin\Debug\netcoreapp3.1\FlesAndObjects.pdb
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.dll
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.pdb
+C:\Users\opilane\source\repos\FlesAndObjects\FlesAndObjects\obj\Debug\netcoreapp3.1\FlesAndObjects.genruntimeconfig.cache
