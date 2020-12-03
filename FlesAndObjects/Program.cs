@@ -39,6 +39,19 @@ namespace FlesAndObjects
             {
                 Console.WriteLine($"title:{movie.title}; Rating:{movie.rating}; Year: {movie.year}");
             }
+
+            Console.WriteLine("what is your favorite movie? enter the title:");
+            string favMovieTitle = Console.ReadLine();
+            Console.WriteLine("Enter your favorite movie rating:");
+            string favMovieRating = Console.ReadLine();
+            Console.WriteLine("Enter the release year:");
+            string favMovieYear = Console.ReadLine();
+
+            Movie favMovie = new Movie(favMovieTitle, favMovieRating, favMovieYear);
+            string favMovieLine = $"{favMovie.title};{favMovie.rating};{favMovie.year}";
+
+            movieList.Add(favMovieLine);
+            File.WriteAllLines(Path.Combine(filePath, fileName), movieList);
         }
     }
 }
